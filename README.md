@@ -135,7 +135,7 @@ DIVIDE(
     [Total Actives],
     0
 )
-```dax
+```
 ### Data Model Visualization
 
 Here is a visualization of the relationships between the tables in the data model:
